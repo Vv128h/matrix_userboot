@@ -1,7 +1,7 @@
 FROM JMTHON-AR/JM-THON:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Vv128h.git /root/userbot
+RUN git clone https://github.com/Vv128h/matrix_userboot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
